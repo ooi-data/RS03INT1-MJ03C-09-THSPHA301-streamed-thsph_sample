@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03INT1-MJ03C-09-THSPHA301-streamed-thsph_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: THSPH<br>
