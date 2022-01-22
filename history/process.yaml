@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03INT1-MJ03C-09-THSPHA301-streamed-thsph_sample
 data_stream: RS03INT1-MJ03C-09-THSPHA301-streamed-thsph_sample
 end_date: '2015-07-11T21:29:19.000Z'
-last_updated: '2022-01-22T04:17:32.453426Z'
+last_updated: '2022-01-22T04:21:10.897361'
 start_date: '2014-09-27T03:44:00.000Z'
-status: pending
+status: success
